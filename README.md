@@ -7,6 +7,12 @@ On the side, I build small useful things for myself and people I love.
 
 ## What I'm building right now
 
+### [stormwatch](https://github.com/americanbiscuit/stormwatch)
+A free, professional-grade weather radar + forecast app. Built on public NEXRAD/NWS data — no API keys, no paywalls.
+Live NEXRAD radar with playback, click-anywhere forecast, severity-colored NWS alert polygons.
+Built with vanilla HTML/JS + MapLibre GL + Cloudflare Pages Functions.
+Live at [stormwatch-kp8.pages.dev](https://stormwatch-kp8.pages.dev)
+
 ### [workout-journal](https://github.com/americanbiscuit/workout-journal)
 A personal workout tracker. Logs morning strength + afternoon cardio/metcon, syncs across devices, supports multiple users.
 Built with vanilla HTML/JS + Cloudflare Pages Functions + D1 (SQLite). No frameworks.
